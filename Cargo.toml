@@ -14,7 +14,7 @@ default = ["console_error_panic_hook"]
 wasm-bindgen = { version = "*" }
 wasm-bindgen-futures = "0.4.37"
 image = "0.25.0"
-reqwest = "0.11.22"
+reqwest = "0.12.3"
 serde = { version = "1.0.189", features = ["derive"] }
 serde-wasm-bindgen = "0.6"
 
